@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 set autoindent
 set nu
 syntax on
